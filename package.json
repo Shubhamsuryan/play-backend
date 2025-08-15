@@ -1,0 +1,16 @@
+{
+  "name": "play-backend",
+  "version": "1.0.0",
+  "description": "vedio streaming app",
+  "keywords": [
+    "javascript",
+    "node"
+  ],
+  "license": "ISC",
+  "author": "shubham",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
